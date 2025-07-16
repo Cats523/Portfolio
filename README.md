@@ -1,25 +1,38 @@
-# 📱 My Portfolio – Android Developer (Jetpack Compose)
+# 📱 Zeeshan Ali — Mobile App Portfolio
 
-Hi, I'm **Zeeshan**, a passionate Android Developer with experience in building and publishing modern, high-performance mobile applications using **Jetpack Compose**. I specialize in delivering smooth, responsive, and feature-rich apps with a focus on user experience and performance.
+Welcome to my mobile app portfolio!  
+I specialize in **React Native** and **Native Android (Kotlin/Java)** development.  
+All apps listed here are live on both **Google Play Store** and **Apple App Store** (where applicable).  
+Click on the links to view them directly.
 
-## 📌 Android Apps
+---
 
-- 🔊 [**Animal Ringtone**](https://play.google.com/store/apps/details?id=com.skytek.animals.ringtone)  
-  Collection of animal sounds as ringtones for fun and personalization.
+## 🛠️ React Native Apps (Android & iOS)
 
-- 🎙️ [**Voice Changer**](https://play.google.com/store/apps/details?id=com.voicechanger.voice.editor.soundeffects)  
-  Apply fun voice effects, trim audio, and use FFmpeg-powered filters.
+| App Name | Android Link | iOS Link |
+|----------|---------------|----------|
+| **Language Translator** | [Play Store](https://play.google.com/store/apps/details?id=com.wonderapps.translator&pcampaignid=web_share) | — |
+| **Qibla Finder** | [Play Store](https://play.google.com/store/apps/details?id=com.wonder.qiblafinder&pcampaignid=web_share) | [App Store](https://apps.apple.com/us/app/qibla-direction-recite-quran/id6740070371) |
+| **Voice Changer** | [Play Store](https://play.google.com/store/apps/details?id=com.voicechanger.voice.editor.soundeffects&pcampaignid=web_share) | [App Store](https://apps.apple.com/app/id6739060898) |
 
-- 🧭 [**Qibla Finder**](https://play.google.com/store/apps/details?id=com.wonder.qiblafinder)  
-  Easily find Qibla direction using device sensors and smooth compass integration.
+---
 
-- 🌍 [**Language Translator**](https://play.google.com/store/apps/details?id=com.wonderapps.translator)  
-  Translate text with support for voice-to-text, OCR, and built-in dictionary.
+## 🎨 Native Android Apps
 
-- 🌈 [**Edge Lighting**](https://play.google.com/store/apps/details?id=com.skytek.edgelighting&hl=en)  
-  Customize your phone’s screen with glowing edge lighting effects for notifications and more.
+| App Name | Android Link | iOS Link |
+|----------|---------------|----------|
+| **3D Live Wallpaper** | [Play Store](https://play.google.com/store/apps/details?id=com.skytek.live.wallpapers&pcampaignid=web_share) | — |
+| **Edge Lighting** | [Play Store](https://play.google.com/store/apps/details?id=com.skytek.edgelighting&pcampaignid=web_share) | — |
+| **Animal Ringtone** | [Play Store](https://play.google.com/store/apps/details?id=com.skytek.animals.ringtone&pcampaignid=web_share) | — |
 
-- 🌌 [**3D Live Wallpaper**](https://play.google.com/store/apps/details?id=com.skytek.live.wallpapers&hl=en)  
-  Beautify your home screen with interactive, animated 3D wallpapers.
+---
 
+## 📩 Contact Me
 
+- 📞 **WhatsApp:** [+923078143142](https://wa.me/923078143142)  
+- 📧 **Email:** [zeeshanali82382@gmail.com](mailto:zeeshanali82382@gmail.com)
+
+I’m open for collaboration and new opportunities in **Mobile App Development**.  
+Feel free to reach out!
+
+---
